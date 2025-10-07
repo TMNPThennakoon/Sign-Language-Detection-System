@@ -67,24 +67,6 @@
 - Webcam or camera device
 - 4GB+ RAM recommended
 
-### ⚡ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/TMNPThennakoon/Sign-Language-Detection-System.git
-   cd Sign-Language-Detection-System
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**
-   ```bash
-   python sign_language_app.py
-   ```
-
 ---
 
 ## 📖 Usage Guide
@@ -264,13 +246,6 @@ copies or substantial portions of the Software.
 - **Scikit-learn Team** - For machine learning algorithms
 - **Python Community** - For the amazing ecosystem
 
----
-
-## 📞 Support & Contact
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/TMNPThennakoon/Sign-Language-Detection-System/issues)
-- **Email**: [Your contact email]
-- **LinkedIn**: [Your LinkedIn profile]
 
 ---
 
