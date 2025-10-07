@@ -1,5 +1,5 @@
 # 🤟 Sign Language Detection System
-![IMG_6966](https://github.com/user-attachments/assets/197c696d-7e82-4fb1-8e64-bd8322570f85)
+
 
 
 <div align="center">
@@ -23,6 +23,12 @@
 *Building accessible technology for the deaf and hard-of-hearing community*
 
 ---
+![IMG_6966](https://github.com/user-attachments/assets/197c696d-7e82-4fb1-8e64-bd8322570f85)
+
+## ✨ User Interface
+
+![Image 2025-10-07 at 13 00](https://github.com/user-attachments/assets/0922181c-d473-4a0e-a969-f4881d54a7fd)
+![Image 2025-10-07 at 12 59](https://github.com/user-attachments/assets/91e3c3f7-479a-4724-8eb5-6739b76b209d)
 
 ## ✨ Features
 
