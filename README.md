@@ -1,4 +1,6 @@
 # 🤟 Sign Language Detection System
+![IMG_6966](https://github.com/user-attachments/assets/197c696d-7e82-4fb1-8e64-bd8322570f85)
+
 
 <div align="center">
 
