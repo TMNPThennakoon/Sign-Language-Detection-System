@@ -28,8 +28,11 @@
 ## ✨ User Interface
 
 ![Image 2025-10-07 at 13 00](https://github.com/user-attachments/assets/0922181c-d473-4a0e-a969-f4881d54a7fd)
+<center>**Sign Language Detector Main UI**</center>
+---
 ![Image 2025-10-07 at 12 59](https://github.com/user-attachments/assets/91e3c3f7-479a-4724-8eb5-6739b76b209d)
-
+<center>**Sign Language Data Collector UI**</center>
+---
 ## ✨ Features
 
 ### 🎯 **Core Capabilities**
